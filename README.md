@@ -1,4 +1,7 @@
 # generatorxhga
+
+**备注：git config http.postBuffer 52428800 之前git push 压缩包失败，加了这个命令才可以**
+
 mybatis逆向生成java代码
 1.创建一个maven项目:
 
